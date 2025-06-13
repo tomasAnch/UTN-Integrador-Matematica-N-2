@@ -1,8 +1,18 @@
+# 📘 Trabajo Integrador: Matemática y Programación en Python
+
+## 🧠 Descripción
+
+Este trabajo integrador tiene como objetivo aplicar conceptos de **matemática discreta** (teoría de conjuntos y lógica) mediante su implementación en **Python**, utilizando datos reales de los integrantes: sus **DNIs** y **años de nacimiento**.
+
+Se realizaron operaciones entre conjuntos, condiciones lógicas, representación visual con diagramas de Venn y análisis del comportamiento de los datos.
+
+---
+
 ## 👥 Integrantes
 
 - Astrid Schneider  
 - Rodrigo Angelelli
-- Tomás Anchorena  
+- Tomás Anchorena 
 
 ---
 
