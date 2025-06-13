@@ -18,23 +18,22 @@ Se realizaron operaciones entre conjuntos, condiciones lógicas, representación
 
 ## 📦 Entregables incluidos
 
-1. ✅ `informe.pdf`  
+1. ✅ Trabajo Integrador II - Matematica - Anchorena, Tomas - Angelelli, Rodrigo - Schneider, Astrid.pdf
    Desarrollo completo del trabajo práctico, incluyendo:
    - Operaciones entre conjuntos
    - Diagramas de Venn
    - Expresiones lógicas redactadas
    - Descripción de las tareas realizadas por cada integrante
 
-2. ✅ `main.py`  
-   Código Python con las dos partes del programa:
+2. ✅ `integrador.py`  
+   Código Python con las partes del programa:
    - Parte A: operaciones con dígitos de los DNIs
    - Parte B: operaciones con años de nacimiento
+   - Expresiones logicas
 
-3. ✅ `video.mp4` o [video en YouTube](https://youtu.be/ejemplo-link) *(si se sube online)*  
-   Video grupal explicando cada parte del trabajo.
+3. ✅ Video a Youtube: https://youtu.be/HT44IeDxbro
 
-4. ✅ `roles_integrantes.pdf`  
-   Documento adicional con:
+4. ✅ Documentacion adicional :  
    - Nombres de los integrantes
    - Explicación de quién hizo qué
    - Relación entre expresiones lógicas y su implementación en el código
@@ -61,14 +60,3 @@ Se realizaron operaciones entre conjuntos, condiciones lógicas, representación
 - Verificación de años bisiestos
 - Producto cartesiano entre años y edades actuales
 
----
-
-## 💻 Requisitos para ejecutar el código
-
-- Python 3.x
-- (Opcional) `matplotlib` y `matplotlib-venn` para diagramas visuales
-
-Instalar con:
-
-```bash
-pip install matplotlib matplotlib-venn
